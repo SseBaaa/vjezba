@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\Trokut\Trokut\bin\Debug\Trokut.exe.config
+C:\Users\sebas\source\repos\Trokut\Trokut\bin\Debug\Trokut.exe
+C:\Users\sebas\source\repos\Trokut\Trokut\bin\Debug\Trokut.pdb
+C:\Users\sebas\source\repos\Trokut\Trokut\obj\Debug\Trokut.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\Trokut\Trokut\obj\Debug\Trokut.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Trokut\Trokut\obj\Debug\Trokut.exe
+C:\Users\sebas\source\repos\Trokut\Trokut\obj\Debug\Trokut.pdb

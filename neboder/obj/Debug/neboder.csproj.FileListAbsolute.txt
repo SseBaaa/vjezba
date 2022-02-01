@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\neboder\neboder\bin\Debug\neboder.exe.config
+C:\Users\sebas\source\repos\neboder\neboder\bin\Debug\neboder.exe
+C:\Users\sebas\source\repos\neboder\neboder\bin\Debug\neboder.pdb
+C:\Users\sebas\source\repos\neboder\neboder\obj\Debug\neboder.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\neboder\neboder\obj\Debug\neboder.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\neboder\neboder\obj\Debug\neboder.exe
+C:\Users\sebas\source\repos\neboder\neboder\obj\Debug\neboder.pdb

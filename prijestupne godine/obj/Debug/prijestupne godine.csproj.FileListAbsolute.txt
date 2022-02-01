@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\prijestupne godine\prijestupne godine\bin\Debug\prijestupne godine.exe.config
+C:\Users\sebas\source\repos\prijestupne godine\prijestupne godine\bin\Debug\prijestupne godine.exe
+C:\Users\sebas\source\repos\prijestupne godine\prijestupne godine\bin\Debug\prijestupne godine.pdb
+C:\Users\sebas\source\repos\prijestupne godine\prijestupne godine\obj\Debug\prijestupne godine.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\prijestupne godine\prijestupne godine\obj\Debug\prijestupne godine.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\prijestupne godine\prijestupne godine\obj\Debug\prijestupne godine.exe
+C:\Users\sebas\source\repos\prijestupne godine\prijestupne godine\obj\Debug\prijestupne godine.pdb

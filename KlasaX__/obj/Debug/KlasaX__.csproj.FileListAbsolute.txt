@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\KlasaX__\KlasaX__\bin\Debug\KlasaX__.exe.config
+C:\Users\sebas\source\repos\KlasaX__\KlasaX__\bin\Debug\KlasaX__.exe
+C:\Users\sebas\source\repos\KlasaX__\KlasaX__\bin\Debug\KlasaX__.pdb
+C:\Users\sebas\source\repos\KlasaX__\KlasaX__\obj\Debug\KlasaX__.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\KlasaX__\KlasaX__\obj\Debug\KlasaX__.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\KlasaX__\KlasaX__\obj\Debug\KlasaX__.exe
+C:\Users\sebas\source\repos\KlasaX__\KlasaX__\obj\Debug\KlasaX__.pdb
